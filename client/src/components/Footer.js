@@ -22,7 +22,6 @@ const Footer = () => {
         <Link to="/3dreamprints/help" style={{ color: "#fff" }}>
           Help
         </Link>
-        <h2>FOLLOW US</h2>
         <SocialIcon
           url="http://reddit.com/in/farisalahmad"
           style={{ height: 25, width: 25 }}
