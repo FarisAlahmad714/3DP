@@ -81,8 +81,14 @@ const AllDreamprints = (props) => {
     <div>
       <div>
         <h2 className="main-info">
-          All Dreamprint Requests will be shown here,<br></br> want to create a
-          new request for yourself ? Click <a href="/3dreamprints/new"> Here</a>{" "}
+          3Dreamprint Galleria{" "}
+          <br>
+            {" "}
+            Click <a href="/3dreamprints/new">
+              {" "}
+              here to create a request{" "}
+            </a>{" "}
+          </br>
         </h2>
         <hr></hr>
       </div>
