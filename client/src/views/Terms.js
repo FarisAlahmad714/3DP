@@ -10,14 +10,14 @@ const Terms = (props) => {
         Service.
       </p>
       <h1 className="request-info">Interpretation and Definitions</h1>
-      <h2>Interpretation</h2>
+      <h3>Interpretation</h3>
       <p>
         The words of which the initial letter is capitalized have meanings
         defined under the following conditions. The following definitions shall
         have the same meaning regardless of whether they appear in singular or
         in plural.
       </p>
-      <h2>Definitions</h2>
+      <h3>Definitions</h3>
       <p>For the purposes of these Terms and Conditions:</p>
       <ul>
         <li>
@@ -251,7 +251,7 @@ const Terms = (props) => {
         States government list of prohibited or restricted parties.
       </p>
       <h1 className="request-info">Severability and Waiver</h1>
-      <h2>Severability</h2>
+      <h3>Severability</h3>
       <p>
         If any provision of these Terms is held to be unenforceable or invalid,
         such provision will be changed and interpreted to accomplish the
@@ -259,7 +259,7 @@ const Terms = (props) => {
         applicable law and the remaining provisions will continue in full force
         and effect.
       </p>
-      <h2>Waiver</h2>
+      <h3>Waiver</h3>
       <p>
         Except as provided herein, the failure to exercise a right or to require
         performance of an obligation under this Terms shall not effect a party's

@@ -22,6 +22,7 @@ const Footer = () => {
         <Link to="/3dreamprints/help" style={{ color: "#fff" }}>
           Help
         </Link>
+        <h2>Dreams in the form of 3DPrinting </h2>
         <SocialIcon
           url="http://reddit.com/in/farisalahmad"
           style={{ height: 25, width: 25 }}
@@ -45,7 +46,7 @@ const Footer = () => {
       </div>
       <span
         style={{
-          color: "#fff",
+          color: "fff",
           top: "1.5rem",
           left: "1rem",
           position: "bottom",
@@ -60,7 +61,7 @@ const Footer = () => {
 export default Footer;
 
 const FooterContainer = styled.footer`
-  background: #344;
+  background: #dbccc9;
   height: 10rem;
   positon: fixed;
   left: 0;

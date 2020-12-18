@@ -49,7 +49,6 @@ function App() {
         <Terms path="/3dreamprints/terms" />
         <Help path="/3dreamprints/help" />
       </Router>
-      <footer>Dreams in the form of 3D printing </footer>
       <Footer />
     </div>
   );

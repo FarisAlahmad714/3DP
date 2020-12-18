@@ -7,7 +7,7 @@ const Faqs = (props) => {
     <div>
       {" "}
       <h1>Frequently Asked Questions</h1>
-      <h2 className="faq-1">Am I required to pay anything? </h2>
+      <h3 className="faq-1">Am I required to pay anything? </h3>
       <p className="faq-1">
         {" "}
         There are no intiation fees!Although we provided the ability for
@@ -17,7 +17,7 @@ const Faqs = (props) => {
         have little to no resources and are in desperate need of their request!{" "}
       </p>
       <hr />
-      <h2 className="faq-2">ADINFINITUM ADNASEUM </h2>
+      <h3 className="faq-2">ADINFINITUM ADNASEUM </h3>
       <p className="faq-2">
         {" "}
         3D printing is a way of creating three dimensional (3D) solid objects.
@@ -32,7 +32,7 @@ const Faqs = (props) => {
         There are a lot of people who print 3D objects at home!{" "}
       </p>
       <hr />
-      <h2 className="faq-1">What can I request </h2>
+      <h3 className="faq-1">What can I request </h3>
       <p className="faq-1">
         {" "}
         As an organization that was built to help individuals or groups that are
@@ -42,7 +42,7 @@ const Faqs = (props) => {
         Toys,Prothetics & Medical , Home Appliances ,{" "}
       </p>
       <hr />
-      <h2 className="faq-2">ADINFINITUM ADNASEUM </h2>
+      <h3 className="faq-2">ADINFINITUM ADNASEUM </h3>
       <p className="faq-2">
         {" "}
         3D printing is a way of creating three dimensional (3D) solid objects.
@@ -57,7 +57,7 @@ const Faqs = (props) => {
         There are a lot of people who print 3D objects at home!{" "}
       </p>
       <hr />
-      <h2>Still have unanswered questions? Contact us below </h2>
+      <h3>Still have unanswered questions? Contact us below </h3>
       <Link to="/3dreamprints/contact" style={{ color: "red" }}>
         Contact Us
       </Link>

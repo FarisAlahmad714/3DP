@@ -80,26 +80,20 @@ const AllDreamprints = (props) => {
   return (
     <div>
       <div>
-        <h2 className="main-info">
-          3Dreamprint Galleria{" "}
-          <br>
-            {" "}
-            Click <a href="/3dreamprints/new">
-              {" "}
-              here to create a request{" "}
-            </a>{" "}
-          </br>
-        </h2>
+        <h1 className="main-info">
+          3DreamPrint Galleria <br></br>{" "}
+        </h1>
+        Click <a href="/3dreamprints/new"> Here</a> to create a request{" "}
         <hr></hr>
       </div>
       {dreamprints.map((dreamprint, idx) => {
         return (
           <div key={dreamprint._id}>
-            <h2>
+            <h3>
               <Link to={`/3dreamprints/${dreamprint._id}`}>
                 {dreamprint.title}
               </Link>
-            </h2>
+            </h3>
             <p>
               Likes: {dreamprint.likeCount}
               {/* | Dislikes:{dreamprint.dislikeCount}{" "} */}

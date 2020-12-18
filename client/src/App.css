@@ -57,6 +57,14 @@
 
 /* Dreamprint Request Styling */
 
+a{
+  /* cursor: pointer , none; */
+  
+  text-decoration: none;
+  /* background: url(https://static5.depositphotos.com/1004996/466/v/950/depositphotos_4663760-stock-illustration-color-paint-splashes-round-background.jpg) repeat-x 0 100%; */
+  padding-bottom: 1px;
+}
+
 .request-info {
   text-align: left;
 }
@@ -87,4 +95,13 @@ footer {
 
 .main-info {
   font-family: auto;
+}
+
+h2{
+  border: 20px solid pink;
+    border-image-source: url(https://previews.123rf.com/images/vicushka/vicushka1902/vicushka190200071/116812600-magnolia-pink-blossom-flowers-frame-at-light-blue-turquoise-background-floral-border-pattern-of-bran.jpg);
+    border-image-slice: 20 22;
+    border-image-repeat: round;
+    background-color: #B5E8E1;  
+    
 }
