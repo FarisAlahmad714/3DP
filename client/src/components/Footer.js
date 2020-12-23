@@ -35,14 +35,6 @@ const Footer = () => {
           url="https://www.facebook.com/faris.alahmad.10/"
           style={{ height: 25, width: 25 }}
         />
-        <SocialIcon
-          url="http://instagram.com/farisahmad1/"
-          style={{ height: 25, width: 25 }}
-        />
-        <SocialIcon
-          url="http://twitter.com//FarisToogood"
-          style={{ height: 25, width: 25 }}
-        />
       </div>
       <span
         style={{
