@@ -83,7 +83,10 @@ const AllDreamprints = (props) => {
         <h1 className="main-info">
           3DreamPrint Galleria <br></br>{" "}
         </h1>
-        Click <a href="/3dreamprints/new"> Here</a> to create a request{" "}
+        <button>
+          {" "}
+          Click <a href="/3dreamprints/new"> Here</a> to create a request{" "}
+        </button>
         <hr></hr>
       </div>
       {dreamprints.map((dreamprint, idx) => {

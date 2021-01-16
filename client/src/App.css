@@ -55,6 +55,9 @@
   color: skyblue;
 }
 
+body{
+  background-color: #dac7c4;
+}
 /* Dreamprint Request Styling */
 
 a{
@@ -93,15 +96,17 @@ footer {
   font-family: cursive;
 }
 
+
+
 .main-info {
   font-family: auto;
 }
 
-h2{
-  border: 20px solid pink;
+#footerdream{
+  border: 20px solid #0f0f0f;
     border-image-source: url(https://previews.123rf.com/images/vicushka/vicushka1902/vicushka190200071/116812600-magnolia-pink-blossom-flowers-frame-at-light-blue-turquoise-background-floral-border-pattern-of-bran.jpg);
     border-image-slice: 20 22;
     border-image-repeat: round;
-    background-color: #B5E8E1;  
+    background-color: #DAC7C4;  
     
 }
