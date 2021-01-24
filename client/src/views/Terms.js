@@ -59,10 +59,7 @@ const Terms = (props) => {
             entire agreement between You and the Company regarding the use of
             the Service. This Terms and Conditions agreement has been created
             with the help of the{" "}
-            <a
-              href="https://www.termsfeed.com/terms-conditions-generator/"
-              target="_blank"
-            >
+            <a href="https://www.termsfeed.com/terms-conditions-generator/">
               Terms and Conditions Generator
             </a>
             .

@@ -22,7 +22,10 @@ const Footer = () => {
         <Link to="/3dreamprints/help" style={{ color: "#fff" }}>
           Help
         </Link>
-        <h2 id="footerdream">Dreams in the form of 3DPrinting </h2>
+        <p class="font-weight-light" id="footerdream">
+          Dreams in the form of 3DPrinting
+        </p>
+        <p class="font-weight-light">Light weight text.</p>
         <SocialIcon
           url="http://reddit.com/in/farisalahmad"
           style={{ height: 25, width: 25 }}

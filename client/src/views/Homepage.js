@@ -6,14 +6,15 @@ const Homepage = (props) => {
       {" "}
       <h1>WHO WE ARE </h1>
       <p>
-        <hr /> We are a dedicated community of dreamers hoping to connect the
-        globe with the power that the 3d printer has given us . The world was
-        blessed with this invention to help bring costs down to labor as well as
-        product creation and simply object replication or cloning . 3DreamPrint
-        allows the unfortunate to be able to make requests to our user base ,
-        once the request has been made , the request will be posted on our
-        global hub of requests where our local technicians might take your
-        request and fufill your 3DreamPrint! <hr />
+        <hr />
+        We are a dedicated community of dreamers hoping to connect the globe
+        with the power that the 3d printer has given us . The world was blessed
+        with this invention to help bring costs down to labor as well as product
+        creation and simply object replication or cloning . 3DreamPrint allows
+        the unfortunate to be able to make requests to our user base , once the
+        request has been made , the request will be posted on our global hub of
+        requests where our local technicians might take your request and fufill
+        your 3DreamPrint! <hr />
       </p>
       <h3 className="request-info">What can I request </h3>
       <p className="request-info">
