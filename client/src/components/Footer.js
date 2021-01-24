@@ -25,7 +25,6 @@ const Footer = () => {
         <p class="font-weight-light" id="footerdream">
           Dreams in the form of 3DPrinting
         </p>
-        <p class="font-weight-light">Light weight text.</p>
         <SocialIcon
           url="http://reddit.com/in/farisalahmad"
           style={{ height: 25, width: 25 }}
